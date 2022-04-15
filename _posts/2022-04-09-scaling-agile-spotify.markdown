@@ -8,9 +8,9 @@ categories: engineering
 
 Back in 2012 the "Spotify Model" was a solution to organize tens of diverse teams in Squads, Tribes, Chapters and Guilds.
 
-{% figure caption:"From the 'Scaling Agile @ Spotify' whitepaper" %}
-  ![From "Scaling Agile @ Spotify"](/assets/spotify_model_diagram.jpg)
-{% endfigure %}
+| ![From the 'Scaling Agile @ Spotify' whitepaper](/assets/spotify_model_diagram.jpg) |
+| <b>From the 'Scaling Agile @ Spotify' whitepaper</b>|
+{: .figure-caption }
 
 The full whitepaper can be downloaded from Henrik's blog [here](https://blog.crisp.se/2012/11/14/henrikkniberg/scaling-agile-at-spotify){:target="_blank"}.
 
@@ -27,6 +27,6 @@ Some highlights:
 
 The last lines of the whitepaper have a bit of foreshadowing: "However, as with any growing organization, today’s solutions give birth to tomorrow’s problems".
 
-{% figure caption:"Spotify's logo when the whitepaper was published" %}
-  ![Spotify's logo when the whitepaper was published"](/assets/old_spotify_logo.png)
-{% endfigure %}
+| ![Spotify's logo when the whitepaper was published](/assets/old_spotify_logo.png) |
+| <b>Spotify's logo when the whitepaper was published</b>|
+{: .figure-caption }
